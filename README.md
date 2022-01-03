@@ -1,4 +1,4 @@
-# lid-driven-cavity-flow
+# Lid-driven cavity flow simulation
 
 Lid-driven cavity flow is a well known problem in the field of fluid dynamics. It is commonly used as a benchmark problem to verify new simulation methods for incompressible viscous flows. 
 
